@@ -1,0 +1,29 @@
+
+h1 {
+    text-align: center;
+    font-size: 5rem;
+}
+
+.background-picture {
+    height: 10rem;
+    background-image: url(rps.jpg);
+    
+}
+
+.play-game{
+    text-align: center;
+    padding: 3rem;
+}
+
+button {
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+button:hover {
+    transform: scale(1.1);
+    background: green;
+    color: white;
+}
